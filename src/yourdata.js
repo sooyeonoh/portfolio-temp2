@@ -141,7 +141,7 @@ export default {
         "Python",
     },
     {
-      img: CIcon,
+      img: cIcon,
       para:
         "C",
     },
