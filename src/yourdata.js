@@ -54,7 +54,7 @@ export default {
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "../imgs/dungeon.png",
+        "../images/dungeon.png",
       //Project URL - Add Your Project Url Here
       url: "https://gitlab.com/sooyeonoh/worldgeneration",
     },
@@ -64,7 +64,7 @@ export default {
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "../imgs/maps.png",
+        "../images/maps.png",
       //Project URL - Add Your Project Url Here
       url: "https://gitlab.com/sooyeonoh/bearmaps",
     },
@@ -74,7 +74,7 @@ export default {
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "../imgs/nbody.png",
+        "../images/nbody.png",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/Berkeley-CS61B-Student/fa20-s515/tree/master/proj0",
     },
@@ -94,7 +94,7 @@ export default {
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "./imgs/ants.png",
+        "./images/ants.png",
       //Project URL - Add Your Project Url Here
       url: "https://gitlab.com/sooyeonoh/cs61a",
     },
