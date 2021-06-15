@@ -55,7 +55,7 @@ export default {
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://ibb.co/f4d7DbX",
+        "https://i.ibb.co/gzZC4Gr/dungeon.png",
       //Project URL - Add Your Project Url Here
       url: "https://gitlab.com/sooyeonoh/worldgeneration",
     },
@@ -65,7 +65,7 @@ export default {
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://ibb.co/PgBwgmg",
+        "https://i.ibb.co/tDy8DmD/maps.png",
       //Project URL - Add Your Project Url Here
       url: "https://gitlab.com/sooyeonoh/bearmaps",
     },
@@ -75,7 +75,7 @@ export default {
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://ibb.co/sqz8GtF",
+        "https://i.ibb.co/m4gfwSH/nbody.png",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/Berkeley-CS61B-Student/fa20-s515/tree/master/proj0",
     },
@@ -95,7 +95,7 @@ export default {
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://ibb.co/9W24yNk",
+        "https://i.ibb.co/NKpNWsd/ants.png",
       //Project URL - Add Your Project Url Here
       url: "https://gitlab.com/sooyeonoh/cs61a",
     },
@@ -121,7 +121,7 @@ export default {
   aboutParaThree:
     "In my free time, you can find me exploring new restaurants (I'm a major foodie), getting crafty with my sewing machine, watching soapy k-dramas, or making plans to travel the world!",
   aboutImage:
-    "https://ibb.co/pznzh0C",
+    "https://i.ibb.co/vPDPXw2/me.jpg",
 
   //   End About Section ---------------------
 
