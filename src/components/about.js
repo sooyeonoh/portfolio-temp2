@@ -21,8 +21,8 @@ const About = () => {
               {data.aboutParaThree}
             </p>
           </div>
-          <div className="image-wrapper">
-            <img src={data.aboutImage} width="334" height="500" alt="about"></img>
+          <div className="image-wrapper" style={{ width: '334px', height: '500px', overflow: 'hidden' }}>
+            <img src={data.aboutImage} alt="about"></img>
           </div>
         </div>
       </div>
