@@ -41,7 +41,8 @@ const Header = () => {
           </Fade>
           <Fade bottom>
             <a
-              href={"https://www.linkedin.com/in/sooyeonoh/"}
+              href="https://www.linkedin.com/in/sooyeonoh/"
+              target="_blank"
               className="primary-btn"
             >
               CONNECT WITH ME
