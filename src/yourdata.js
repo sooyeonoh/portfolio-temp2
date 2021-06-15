@@ -3,8 +3,9 @@ import htmlIcon from "./images/html.svg"
 import cssIcon from "./images/css.svg"
 import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
-import designIcon from "./images/design.svg"
-import codeIcon from "./images/code.svg"
+import javaIcon from "./images/java.svg"
+import pythonIcon from "./images/python.svg"
+import cIcon from "./images/c.svg"
 import adobeIcon from "./images/adobe-creative.svg"
 import blazorIcon from "./images/blazor.svg"
 
@@ -54,7 +55,7 @@ export default {
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "../images/dungeon.png",
+        "https://ibb.co/f4d7DbX",
       //Project URL - Add Your Project Url Here
       url: "https://gitlab.com/sooyeonoh/worldgeneration",
     },
@@ -64,7 +65,7 @@ export default {
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "../images/maps.png",
+        "https://ibb.co/PgBwgmg",
       //Project URL - Add Your Project Url Here
       url: "https://gitlab.com/sooyeonoh/bearmaps",
     },
@@ -74,7 +75,7 @@ export default {
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "../images/nbody.png",
+        "https://ibb.co/sqz8GtF",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/Berkeley-CS61B-Student/fa20-s515/tree/master/proj0",
     },
@@ -94,7 +95,7 @@ export default {
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "./images/ants.png",
+        "https://ibb.co/9W24yNk",
       //Project URL - Add Your Project Url Here
       url: "https://gitlab.com/sooyeonoh/cs61a",
     },
@@ -120,7 +121,7 @@ export default {
   aboutParaThree:
     "In my free time, you can find me exploring new restaurants (I'm a major foodie), getting crafty with my sewing machine, watching soapy k-dramas, or making plans to travel the world!",
   aboutImage:
-    "./imgs/me.JPG",
+    "https://ibb.co/pznzh0C",
 
   //   End About Section ---------------------
 
@@ -129,6 +130,21 @@ export default {
   //   Import Icons from the top and link it here
 
   skills: [
+    {
+      img: javaIcon,
+      para:
+        "Java",
+    },
+    {
+      img: pythonIcon,
+      para:
+        "Python",
+    },
+    {
+      img: CIcon,
+      para:
+        "C",
+    },
     {
       img: htmlIcon,
       para:
@@ -158,14 +174,14 @@ export default {
       img: adobeIcon,
       para:
         "Adobe Creative Suite",
-    },
+    }
   ],
 
   // End Skills Section --------------------------
 
   //   Promotion Section --------------------------
 
-  promotionHeading: "Python, Java, Javascript, C",
+  promotionHeading: "",
   promotionPara:
     "",
   // End Promotion Section -----------------
@@ -178,11 +194,11 @@ export default {
     { img: githubIcon, url: "https://github.com/sooyeonoh" },
     {
       img: linkedinIcon,
-      url: "https://dribbble.com/chetanverma",
+      url: "https://linkedin.com/in/sooyeonoh",
     },
     {
       img: facebookIcon,
-      url: "https://www.instagram.com/",
+      url: "https://www.facebook.com/oh.sooyeon/",
     },
   ],
 
